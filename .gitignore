@@ -1,0 +1,4 @@
+.venv/
+config.json
+accessory.state
+__pycache__/

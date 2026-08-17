@@ -1,0 +1,2 @@
+bleak==3.0.2
+HAP-python==5.0.0
